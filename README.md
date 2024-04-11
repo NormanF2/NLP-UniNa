@@ -5,3 +5,9 @@ The class is held by:
 * Professor Francesco Cutugno
 * Professor Vincenzo Norman Vitale
 * Dr. Luigi Maria Giordano Orsini
+
+## Notes
+Please **READ CAREFULLY!**
+
+Each notebook contains all the instructions necessary to run the example.
+Authentication is required to access some datasets.
